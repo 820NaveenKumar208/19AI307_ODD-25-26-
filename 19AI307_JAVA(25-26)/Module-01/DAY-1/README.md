@@ -67,4 +67,5 @@ public class Main
 <img width="1187" height="301" alt="image" src="https://github.com/user-attachments/assets/f468ec57-7db4-4065-bbb5-c050f8eab552" />
 
 
-## RESULT:  Thus, the program successfully demonstrates the difference between post-decrement (a--) and pre-decrement (--a) by showing how the value changes in each case.
+## RESULT:  
+Thus, the program successfully demonstrates the difference between post-decrement (a--) and pre-decrement (--a) by showing how the value changes in each case.
