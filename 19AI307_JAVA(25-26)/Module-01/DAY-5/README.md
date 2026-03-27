@@ -14,16 +14,12 @@ To write a Java program to reverse a given string.
 5.	Traverse the original string from end to start and append each character to reversed.
 6.	Print the reversed string and end the program.
 
-
-
-
-
 ## PROGRAM:
  ```
 /*
 Program to implement a Strings and Math Function using Java
-Developed by: 
-RegisterNumber:  
+Developed by: Naveen Kumar T
+RegisterNumber: 212223220067
 */
 ```
 
