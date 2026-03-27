@@ -17,9 +17,6 @@ Write a Java program to simulate this elevator logic for a given floor number.
 ## AIM:
 To write a Java program to simulate this elevator logic for a given floor number.
 
-
-
-
 ## ALGORITHM :
 
 1. Start the program.
@@ -29,24 +26,13 @@ To write a Java program to simulate this elevator logic for a given floor number
 5. Else if divisible by 3, print "Beware!"; if divisible by 5, print "Blessings!".
 6. Otherwise, print "Floor " followed by n and end the program.
 
-
-
-
-
 ## PROGRAM:
- ```
-/*
 Program to implement a conditional statement using Java
-Developed by: 
-RegisterNumber:  
-*/
-```
+Developed by: Naveen Kumar T
+RegisterNumber: 212223220067
 
 ## SOURCE CODE:
-
-
-```java
-
+```
 import java.util.*;
 public class Main
 {
@@ -75,16 +61,8 @@ public class Main
 
 ```
 
-
-
-
-
-
 ## OUTPUT:
 <img width="1238" height="296" alt="image" src="https://github.com/user-attachments/assets/d0be2a8b-eafb-404a-b9bd-ca8c3ac712a1" />
-
-
-
 
 ## RESULT:
 The program successfully writes a Java program to simulate this elevator logic for a given floor number.
